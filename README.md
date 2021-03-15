@@ -1,4 +1,4 @@
-# mitochondrial_division
+# Mitochondrial Division
 A collection of codes used for image analysis of the following manuscript: XXX
 
 
