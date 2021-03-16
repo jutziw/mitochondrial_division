@@ -1,3 +1,14 @@
+// NUCLEAR APOPTOSIS MARKER READOUT MACRO
+
+//This macros is used to readout the fluorescence intensity of a nuclear targeted marker for apoptosis
+
+//Written by Julius Winter 2020
+//Used for the manuscript Kleele et al. 2021
+
+// CODE STARTS BELOW
+
+
+
 title = getTitle();
 titleNoEx = File.nameWithoutExtension();
 directory = File.directory();
