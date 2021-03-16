@@ -1,5 +1,5 @@
 # Mitochondrial Division
-A collection of codes used for image analysis of the following manuscript: XXX
+A collection of codes used for image analysis of the manuscript Kleele et al. 2021
 
 
 ## ApoptosisFluo.ijm
